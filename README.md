@@ -18,6 +18,12 @@ Run this Clojure project where your default JVM is set to GraalVM. [TODO: Link t
 
 Open a REPL with `lein repl` (or through your favourite editor), and play with the [examples](./examples).
 
+## Recommended reading
+
+* An [intro post](https://gigasquidsoftware.com/blog/2017/10/22/embedded-interop-between-clojure-r-and-python-with-graalvm/) to using polyglot GraalVM from Clojure by Carin Meier.
+* A general Nextjournal [notebook](https://nextjournal.com/mk/graal-vm) about FastR setup by Martin Kavalar.
+* A Nextjournal [notebook](https://nextjournal.com/wolfv/how-fast-is-r-with-fastr-pythran) with FastR benchmarks by Wolf Vollprecht.
+* A small Nextjournal [notebook](https://nextjournal.com/daslu/clojure-fastr-interop) with a reproducible setup with examples similar to those in this project.
 
 ## License
 
