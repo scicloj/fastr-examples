@@ -18,6 +18,10 @@ Run this Clojure project where your default JVM is set to GraalVM. [TODO: Link t
 
 Open a REPL with `lein repl` (or through your favourite editor), and play with the [examples](./examples).
 
+## Discussion
+
+See related discussion at the Clojurians Zulip [here](https://clojurians.zulipchat.com/#narrow/stream/204621-r-interop/topic/GraalVM.20FastR).
+
 ## Recommended reading
 
 * An [intro post](https://gigasquidsoftware.com/blog/2017/10/22/embedded-interop-between-clojure-r-and-python-with-graalvm/) to using polyglot GraalVM from Clojure by Carin Meier.
