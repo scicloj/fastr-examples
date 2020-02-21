@@ -8,7 +8,7 @@ This repo offers some examples of using GraalVM's [FastR](https://github.com/ora
 
 The idea is to have a proof of concept.
 
-These days we are working on a general R-interop library, that is planned to target different R runtimes: GNU-R, Renjin, FastR. The experiments here are a proof of concept to supoprt that work.
+For a much more comprehensive project, see [graalvm-interop](https://github.com/davidpham87/graalvm-rinterop). For Clojure-R interop without GraalVM, see [ClojisR](https://github.com/scicloj/clojisr).
 
 ## Usage
 
